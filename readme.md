@@ -12,3 +12,15 @@ The applied knowledge include:
 3. Variables.
 4. Loops.
 5. If instruction.
+
+**Lesson2:**
+Contains a class with 2 methods  that are used to:
+1.Assigning the qualification according to the score.
+2.Assigning the qualification according to the grade.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data type.
+3. Variables.
+4. If and else if instruction.
+5. Switch instruction.
