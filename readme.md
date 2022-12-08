@@ -14,9 +14,9 @@ The applied knowledge include:
 5. If instruction.
 
 **Lesson2:**
-Contains a class with 2 methods  that are used to:
-1.Assigning the qualification according to the score.
-2.Assigning the qualification according to the grade.
+  Contains a class with 2 methods  that are used to:
+1. Assigning the qualification according to the score.
+2. Assigning the qualification according to the grade.
 
 The applied knowledge include:
 1. Access modifiers.
@@ -26,7 +26,7 @@ The applied knowledge include:
 5. Switch instruction.
 
 **Methods**
-Contains a class with 2 methods  that are used to:
+ Contains a class with 2 methods  that are used to:
 1. Calculation of the sum from zero to n number, using numbers of type int.
 2. Calculation of the sum from one to n number, using numbers of type double.
 
