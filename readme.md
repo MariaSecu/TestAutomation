@@ -71,3 +71,14 @@ The applied knowledge include:
 3. Variables.
 4. If instruction.
 5. Scanner input.
+
+**If Else Statement**
+Contains a class that uses the if statement to:
+1. Display a message depending on the number of sales.
+
+The applied knowledge include:
+1. If and Else instruction.
+2. Access modifiers.
+3. Data types.
+4. Variables.
+5. Scanner input.
