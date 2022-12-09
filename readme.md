@@ -59,6 +59,19 @@ The applied knowledge include:
 9. Vriables.
 10. Abstract methods.
 
+**If Statment**
+Contain a class when I use the If instruction to:
+
+1. Calculate the salary without bonus.
+2. Calculate the salary with bonus.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. If instruction.
+5. Scanner input.
+
 **If Else Statement**
 Contains a class that uses the if statement to:
 1. Display a message depending on the number of sales.
