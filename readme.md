@@ -28,3 +28,16 @@ The applied knowledge include:
 6. Get methods.
 7. The creation of objects.
 8. Vriables and data type.
+
+**Practice Java** 
+Contain a package with 3 classes, that are used to:
+1. Display a message.
+2. Dispay a message using static methods.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data type.
+3. Variables.
+4. Static methods.
+5. Comments.
+
