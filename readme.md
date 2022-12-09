@@ -58,3 +58,16 @@ The applied knowledge include:
 8. Data type.
 9. Vriables.
 10. Abstract methods.
+
+**If Statment**
+Contain a class when I use the package  Scanner to:
+
+1. Calculate the salary without bonus.
+2. Calculate the salary with bonus.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. If instruction.
+5. Scanner input.
