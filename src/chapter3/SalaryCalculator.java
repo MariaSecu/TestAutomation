@@ -10,8 +10,8 @@ public class SalaryCalculator {
         Scanner scanner = new Scanner(System.in);
         int sales = scanner.nextInt();
         scanner.close();
-        if(sales > 10){
-            salary = salary+bonus;
+        if (sales > 10) {
+            salary = salary + bonus;
         }
         System.out.println("The employee's pay is $: " + salary);
     }

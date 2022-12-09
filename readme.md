@@ -60,7 +60,7 @@ The applied knowledge include:
 10. Abstract methods.
 
 **If Statment**
-Contain a class when I use the package  Scanner to:
+Contain a class when I use the If instruction to:
 
 1. Calculate the salary without bonus.
 2. Calculate the salary with bonus.
