@@ -110,3 +110,16 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Create object**
+Contain a class with two methods that is uses to:
+1. calculate the area of the rectangle object.
+2. Calculate the perimeter of the rectangle object.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Constructors.
+5. Get and set methods.
+6. Arithmetic operators.
