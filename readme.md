@@ -83,6 +83,19 @@ The applied knowledge include:
 4. Variables.
 5. Scanner input.
 
+
+**While loop**
+Contain a class that uses the while function to:
+1. Calculate the gross.
+2. Display a message if the condition isn't true.
+
+The applied knowledge include:
+1. Main method.
+2. Access modifiers.
+3. Data types.
+4. Variables.
+5. While function.
+
 **Switch Statment**
 Contains a class when I use switch instruction to:
 1. Display a message depending on the grade.
