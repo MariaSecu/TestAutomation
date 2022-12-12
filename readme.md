@@ -36,3 +36,15 @@ The applied knowledge include:
 3. Variables.
 4. Arithmetic operations.
 5. For function.
+
+**Methods and variables**
+Contains two classes with methods that are used to:
+1. Display a name whith a message.
+2. determine if a credit can be granted.
+
+The applied knowledge include:
+1. Variables.
+2. Access modifiers.
+3. Methods.
+4. If and else function.
+5. Data type.
