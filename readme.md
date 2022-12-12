@@ -82,3 +82,15 @@ The applied knowledge include:
 3. Data types.
 4. Variables.
 5. Scanner input.
+
+**Nested If**
+Contains a class that uses nested if and else statement to:
+1. Display a message depending on the salary and the years.
+   
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Main method.
+5. Nested if and else instruction.
+6. Scanner input.
