@@ -83,9 +83,11 @@ The applied knowledge include:
 4. Variables.
 5. Scanner input.
 
+
 **Do While Loop**
 Contain a class that uses the do while loop to:
 1. Calculate the sum of 2 numbers.
+
 
 The applied knowledge include:
 1. Access modifiers.
@@ -94,4 +96,3 @@ The applied knowledge include:
 4. Main method.
 5. Do while loop.
 6. Scanner input.
-
