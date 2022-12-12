@@ -82,3 +82,14 @@ The applied knowledge include:
 3. Data types.
 4. Variables.
 5. Scanner input.
+
+**Switch Statment**
+Contains a class when I use switch instruction to:
+1. Display a message depending on the grade.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Switch statement.
+5. Scanner input.
