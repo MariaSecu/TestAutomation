@@ -82,16 +82,3 @@ The applied knowledge include:
 3. Data types.
 4. Variables.
 5. Scanner input.
-
-**If Else If Statment**
-Contains a package with 3 classes, that uses the if, else if statment to:
-1. Display the test result depending on the score.
-2. Display the test result depending on the score using a method.
-
-The applied knowledge include:
-1. Access modifiers.
-2. Data types.
-3. Variables.
-4. Scanner input.
-5. If and else if instruction.
-6. Static method.
