@@ -96,3 +96,17 @@ The applied knowledge include:
 4. Main method.
 5. Do while loop.
 6. Scanner input.
+
+**For loop**
+Contain a package with 4 classes that uses for loop to:
+1. Found the letter 'A' in the word.
+2. Calculate the total price.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Static method.
+5. For loop.
+6. Main method.
+7. Scanner input.
