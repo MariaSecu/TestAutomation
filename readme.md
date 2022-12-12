@@ -84,25 +84,15 @@ The applied knowledge include:
 5. Scanner input.
 
 
-**While loop**
-Contain a class that uses the while function to:
-1. Calculate the gross.
-2. Display a message if the condition isn't true.
+**Do While Loop**
+Contain a class that uses the do while loop to:
+1. Calculate the sum of 2 numbers.
 
-The applied knowledge include:
-1. Main method.
-2. Access modifiers.
-3. Data types.
-4. Variables.
-5. While function.
-
-**Switch Statment**
-Contains a class when I use switch instruction to:
-1. Display a message depending on the grade.
 
 The applied knowledge include:
 1. Access modifiers.
 2. Data types.
 3. Variables.
-4. Switch statement.
-5. Scanner input.
+4. Main method.
+5. Do while loop.
+6. Scanner input.
