@@ -110,3 +110,14 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Array**
+Contains a class with array function that is uses to:
+1. Display 6 numbers at random from a string of numbers.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Methods.
+5. Array.
