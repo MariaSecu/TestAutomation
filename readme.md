@@ -110,3 +110,17 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Array and methods**
+Contain a class with 5 methods that is uses to:
+1. Calculates the average of several numbers.
+2. Display the highest number.
+3. Display the lowest number.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. For loop.
+5. Arithmetic operators.
+6. If function.
