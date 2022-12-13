@@ -110,3 +110,15 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**String**
+Contains a method that uses String data type to:
+1. Determine the number of words in a sentence.
+2. Display from new line each word .
+
+The applied knowledge include:
+1. Methods.
+2. Access modifiers.
+3. Data types.
+4. Variables.
+5. For loop.
