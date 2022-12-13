@@ -48,3 +48,15 @@ The applied knowledge include:
 3. Methods.
 4. If and else function.
 5. Data type.
+
+**Overloading**
+Contains a class with two methods that are uses to:
+1. Display the month depending on the month.
+2. Display the number of the month.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Variables.
+3. Data type.
+4. Methods.
+5. Switch instruction.
