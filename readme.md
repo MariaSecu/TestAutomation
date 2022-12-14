@@ -110,3 +110,18 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Fruits Market**
+Contains packet with inheritances classes, that are uses to:
+1. Display a tipe of juice.
+2. Display the number of the calories.
+3. Display how to make a good juice.
+
+The applied knowledge include:
+
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Inheritances classes.
+5. Methods.
+6. Constructors.
