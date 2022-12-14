@@ -110,3 +110,14 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Overriding**
+Contains two classes with overriding method that are uses to:
+1. Calculate the perimeter.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Inhetitence classes.
+5. Overriding methods.
