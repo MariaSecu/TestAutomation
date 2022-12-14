@@ -110,3 +110,15 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Inheritance Principle**
+Contains a chapter with 3 classes that are uses to:
+1. Demonstrate the inheritance.
+2. Display the message of the enheritor class.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Inheritance(extends function).
+5. Get and set methods.
