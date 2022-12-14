@@ -110,3 +110,16 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**CakeTaste**
+Contains 4 thar are uses to:
+1. Demonstarte the inheritance principle.
+
+The applied knowledge include:
+
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Inheritance principle.
+5. Get and set methods.
+6. Main method.
