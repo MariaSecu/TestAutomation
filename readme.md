@@ -110,3 +110,16 @@ The applied knowledge include:
 5. For loop.
 6. Main method.
 7. Scanner input.
+
+**Interfaces**
+  Contains one interface and two classes that is uses to:
+1. Create an object with diferent characteristics.
+
+The applied knowledge include:
+1. Interfaces.
+2. Implements function.
+3. Overriding function.
+4. Access modifiers.
+5. Data types.
+6. Variables.
+7. Get and Set methods.
