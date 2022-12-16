@@ -124,6 +124,16 @@ The applied knowledge include:
 6. Main method.
 7. Scanner input.
 
+Triks_Array_branch
+**Array and methods**
+Contain a class with 5 methods that is uses to:
+1. Calculates the average of several numbers.
+2. Display the highest number.
+3. Display the lowest number.
+4. For loop.
+5. Arithmetic operators.
+6. If function.
+
 **Array**
 Contains a class with array function that is uses to:
 1. Display 6 numbers at random from a string of numbers.
