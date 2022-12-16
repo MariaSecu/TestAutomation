@@ -135,6 +135,19 @@ The applied knowledge include:
 6. Main method.
 7. Scanner input.
 
+**Abstraction**
+Contains an abstract class and two inheritance classes that are uses to:
+1. Calculate the rectangle area.
+2. Display a message.
+
+The applied knowledge include:
+1. Abstract class.
+2. Abstract method.
+3. Inheritance principle.
+4. Access modifiers.
+5. Data types.
+6. Variables.
+7. Get and set methods.
 
 **Fruits Market**
 Contains packet with inheritances classes, that are uses to:
