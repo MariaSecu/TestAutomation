@@ -35,7 +35,6 @@ The applied knowledge include:
 1. Calculation of the sum from zero to n number, using numbers of type int.
 2. Calculation of the sum from one to n number, using numbers of type double.
 
-
 The applied knowledge include:
 1. Access modifiers.
 2. Data type.
@@ -54,6 +53,19 @@ The applied knowledge include:
 3. Methods.
 4. If and else function.
 5. Data type.
+
+
+**Overloading**
+Contains a class with two methods that are uses to:
+1. Display the month depending on the month.
+2. Display the number of the month.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Variables.
+3. Data type.
+4. Methods.
+5. Switch instruction.
 
 **Lesson 3**
 Contains a package with 5 class, one of the is an abstract class with 2 abstract methods.
@@ -100,7 +112,6 @@ The applied knowledge include:
 **Do While Loop**
 Contain a class that uses the do while loop to:
 1. Calculate the sum of 2 numbers.
-
 
 The applied knowledge include:
 1. Access modifiers.
