@@ -135,6 +135,14 @@ The applied knowledge include:
 6. Main method.
 7. Scanner input.
 
+**Inheritance Principle**
+Contains a chapter with 3 classes that are uses to:
+1. Demonstrate the inheritance.
+2. Display the message of the enheritor class.
+3. Variables.
+4. Inheritance(extends function).
+5. Get and set methods.
+
 **String**
 Contains a method that uses String data type to:
 1. Determine the number of words in a sentence.
@@ -169,12 +177,11 @@ Contain a class with two methods that is uses to:
 Contain a class   that uses nested loop to:
 1. Make a game that determines whether you won by the number of points.
 
+
 The applied knowledge include:
 1. Access modifiers.
 2. Data types.
 3. Variables.
-4. Methods.
-5. Array.
-4. Constructors.
+4. Inheritance(extends function).
 5. Get and set methods.
-6. Arithmetic operators.
+
