@@ -135,6 +135,12 @@ The applied knowledge include:
 6. Main method.
 7. Scanner input.
 
+**Overriding**
+Contains two classes with overriding method that are uses to:
+1. Calculate the perimeter.
+2. Inhetitence classes.
+3. Overriding methods.
+
 **Inheritance Principle**
 Contains a chapter with 3 classes that are uses to:
 1. Demonstrate the inheritance.
@@ -177,11 +183,9 @@ Contain a class with two methods that is uses to:
 Contain a class   that uses nested loop to:
 1. Make a game that determines whether you won by the number of points.
 
-
 The applied knowledge include:
 1. Access modifiers.
 2. Data types.
 3. Variables.
 4. Inheritance(extends function).
 5. Get and set methods.
-
