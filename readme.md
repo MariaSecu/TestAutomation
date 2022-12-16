@@ -40,6 +40,20 @@ The applied knowledge include:
 1. Access modifiers.
 2. Data type.
 3. Variables.
+4. Arithmetic operations.
+5. For function.
+
+**Methods and variables**
+Contains two classes with methods that are used to:
+1. Display a name whith a message.
+2. determine if a credit can be granted.
+
+The applied knowledge include:
+1. Variables.
+2. Access modifiers.
+3. Methods.
+4. If and else function.
+5. Data type.
 
 **Lesson 3**
 Contains a package with 5 class, one of the is an abstract class with 2 abstract methods.
@@ -83,7 +97,6 @@ The applied knowledge include:
 4. Variables.
 5. Scanner input.
 
-
 **Do While Loop**
 Contain a class that uses the do while loop to:
 1. Calculate the sum of 2 numbers.
@@ -115,9 +128,21 @@ The applied knowledge include:
 Contains a class with array function that is uses to:
 1. Display 6 numbers at random from a string of numbers.
 
+**Create object**
+Contain a class with two methods that is uses to:
+1. calculate the area of the rectangle object.
+2. Calculate the perimeter of the rectangle object.
+
+**Nested Loop**
+Contain a class   that uses nested loop to:
+1. Make a game that determines whether you won by the number of points.
+
 The applied knowledge include:
 1. Access modifiers.
 2. Data types.
 3. Variables.
 4. Methods.
 5. Array.
+4. Constructors.
+5. Get and set methods.
+6. Arithmetic operators.
