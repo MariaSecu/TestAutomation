@@ -124,6 +124,11 @@ The applied knowledge include:
 6. Main method.
 7. Scanner input.
 
+**Create object**
+Contain a class with two methods that is uses to:
+1. calculate the area of the rectangle object.
+2. Calculate the perimeter of the rectangle object.
+
 **Nested Loop**
 Contain a class   that uses nested loop to:
 1. Make a game that determines whether you won by the number of points.
@@ -132,7 +137,6 @@ The applied knowledge include:
 1. Access modifiers.
 2. Data types.
 3. Variables.
-4. For Loop.
-5. If and else inctruction.
-6. Scanner input.
-
+4. Constructors.
+5. Get and set methods.
+6. Arithmetic operators.
