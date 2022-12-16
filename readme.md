@@ -135,7 +135,18 @@ The applied knowledge include:
 6. Main method.
 7. Scanner input.
 
-Triks_Array_branch
+**String**
+Contains a method that uses String data type to:
+1. Determine the number of words in a sentence.
+2. Display from new line each word .
+
+The applied knowledge include:
+1. Methods.
+2. Access modifiers.
+3. Data types.
+4. Variables.
+5. For loop.
+
 **Array and methods**
 Contain a class with 5 methods that is uses to:
 1. Calculates the average of several numbers.
