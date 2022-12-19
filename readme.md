@@ -236,3 +236,16 @@ The applied knowledge include:
 3. Variables.
 4. Inheritance(extends function).
 5. Get and set methods.
+
+**Inheritance**
+Contains 4 classes that uses the inharitance principle to:
+1. Calculate total price for the toys.
+2. Get the price for each ones toys.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Inheritance(extends function).
+5. Overriding.
+6. Get and set methods.
