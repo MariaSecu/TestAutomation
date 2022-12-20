@@ -236,3 +236,18 @@ The applied knowledge include:
 3. Variables.
 4. Inheritance(extends function).
 5. Get and set methods.
+
+
+**Array calculation**
+Contains a class that uses array to:
+1. Calculate the sum of certain numbers.
+2. Calculate average of certain numbers.
+3. Calculate the product of certain numbers.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Main method.
+5. Scanner input.
+6. Static methods.
