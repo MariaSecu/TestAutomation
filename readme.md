@@ -237,15 +237,26 @@ The applied knowledge include:
 4. Inheritance(extends function).
 5. Get and set methods.
 
+**Array calculation**
+Contains a class that uses array to:
+1. Calculate the sum of certain numbers.
+2. Calculate average of certain numbers.
+3. Calculate the product of certain numbers.
+
 **Inheritance**
 Contains 4 classes that uses the inharitance principle to:
 1. Calculate total price for the toys.
 2. Get the price for each ones toys.
+4. Inheritance(extends function).
+5. Overriding.
+6. Get and set methods.
 
 The applied knowledge include:
 1. Access modifiers.
 2. Data types.
 3. Variables.
-4. Inheritance(extends function).
-5. Overriding.
-6. Get and set methods.
+4. Main method.
+5. Scanner input.
+6. Static methods.
+
+

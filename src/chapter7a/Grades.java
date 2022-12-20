@@ -13,6 +13,7 @@ public class Grades {
         System.out.println("Average: " + String.format("%2f", calculateAverage()));
         System.out.println("Highest" + getHighest());
         System.out.println("Lowest" + getLowest());
+        System.out.println("Sum: " + calculateSum());
 
     }
 
