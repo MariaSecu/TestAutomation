@@ -251,3 +251,18 @@ The applied knowledge include:
 4. Main method.
 5. Scanner input.
 6. Static methods.
+
+**Array**
+Contains 5 classes that are uses to:
+1. Calculate the sum of numbers from array.
+2. Calculate the average of numbers from array.
+3. Determinate the highest number.
+4. Determinate the lowest number.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Scanner input.
+5. Void method.
+6. Constructor.
