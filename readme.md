@@ -289,3 +289,17 @@ The applied knowledge include:
 5. Void method.
 6. Constructor.
 7. For function.
+
+**Exceptions**
+Contains 3 methods that are used to:
+1. Demonstrate the exceptions.
+2. Catch the error.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Get and set methods.
+5. Static method.
+6. Try, catch, finally instruction.
+7. If and else instruction.
