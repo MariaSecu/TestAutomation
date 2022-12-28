@@ -289,3 +289,21 @@ The applied knowledge include:
 5. Void method.
 6. Constructor.
 7. For function.
+
+**Exercises**
+Contains 3 classes that are used to:
+1. Calculating a factorial number.
+2. Display the revers of an array.
+3. Determinate the highest number.
+4. Determinate the lowest number.
+5. Calculate the average of numbers from array.
+
+The applied knowledge include:
+1. Access modifiers.
+2. Data types.
+3. Variables.
+4. Scanner input. 
+5. Constructor.
+6. For function.
+7. If and else instruction.
+8. Instance methods.
